@@ -1,16 +1,13 @@
-title : Blog Title
-tagline: Blog Tagline
+title : home
+tagline: homeserver
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Jim Landritsi
+  email : james.landritsi@gmail.com
+  github : landis
+  twitter : xlandisx
   feedburner : feedname
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
   - about.md
-  
+  - code/index.md
+  - media/index.md

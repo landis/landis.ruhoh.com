@@ -4,7 +4,7 @@ RuhohSpec: '0.2'
 theme : twitter
 permalink: /:categories/:title
 
-production_url : http://sample.com
+production_url : http://home.jimlandis.com
 
 comments :
   provider : disqus
